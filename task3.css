@@ -1,0 +1,22 @@
+main{
+    display: block;
+}
+.msgBox{
+    border: solid 3px;
+    width: 300px;
+    height: 300px;
+    border-color: blue;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+p{
+    text-align: right;
+}
+span{
+    text-align: left;
+}
+.map-link{
+    display: none;
+    text-align: right;
+}
